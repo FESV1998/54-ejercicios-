@@ -609,6 +609,7 @@ namespace ejercicios_semi_terminados
         }
         public static void Vector(int[] intArray)
         {
+            Console.WriteLine("continuaraa.....");
         }
     }
 }
